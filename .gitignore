@@ -1,0 +1,10 @@
+*.class
+*.apk
+bin/
+gen/
+.settings/
+proguard/
+*.classpath
+/doExt_do_DataCache/libs/docore.jar
+/doExt_do_DataCache/do_build.xml
+/doExt_do_DataCache/do_DataCache.zip
